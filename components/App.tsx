@@ -255,7 +255,7 @@ const App: React.FC = () => {
       <main className="max-w-4xl mx-auto py-12 px-6">
         <div className="flex items-center gap-3 mb-10 border-l-8 border-[#4285F4] pl-6">
           <HelpCircle className="text-[#4285F4] w-8 h-8" />
-          <h3 className="text-3xl font-bold text-gray-800">Jawaban Untuk Anda</h3>
+          <h3 className="text-3xl font-bold text-gray-800">Frequently Asked Question (FAQ)</h3>
         </div>
 
         <div className="space-y-6">
